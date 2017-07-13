@@ -1,1 +1,2 @@
 git-gui‚ğg‚¢n‚ß‚é
+git-gui‚Åstaging,commit‚ğÀs‚·‚é
